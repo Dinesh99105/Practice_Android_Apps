@@ -17,6 +17,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //add your code below
+
+
+        getInput=findViewById(R.id.input);
+        messageDisplay =findViewById(R.id.message);
     }
 
 
