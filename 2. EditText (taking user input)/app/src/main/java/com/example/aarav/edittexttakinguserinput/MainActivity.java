@@ -19,15 +19,24 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //add your code below
-
-
         getInput=findViewById(R.id.input);
         messageDisplay =findViewById(R.id.message);
+
     }
 
 
     public void show(View v){
 
+        String message;
+
+        message=getInput.getText().toString();// geting text and converting the text into the string
+        if(message!=null) {
+
+         message="The name You Entered is " + message;
+
+         messageDisplay.setText(message);
+
+        }
 
     }
 
