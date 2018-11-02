@@ -1,14 +1,31 @@
-# Practice_Android_Apps
+# Android Projects for Begineer
 
-This Repository contains practice app code for begineers learning android app development.
+![image](https://user-images.githubusercontent.com/25636146/47924550-04d76400-dee2-11e8-9823-8dc436bb523b.png)
 
 
-# Contributing
-Fork this repository and add any android project you made while learning, once your app is in working condition create a pull request.
+This Repository contains android projects for begineers who are learning android app development. The projects list is given below:
 
-If your project is already present here just add it your own repository and add the link of your project in ReadMe of that Project (Remmeber to create a Beautiful ReadME)
-and create a pull Request.
-After doing all these things add you name in the Contibutor.md file with the url linking to your github profile, and be remmembered by the world.
+  - TextViews and buttons
+  - EditText (taking user input)
+  - TipCalculator
 
-# Note 
-Do not delete the apps already created here, In case you modify any thing briefly explain your actions so that we can merge it.
+### Technology Used
+
+- Android Studio
+
+### Contribute
+
+Want to contribute? Great!
+
+ Fork your own copy of this repository
+ - Add your own project and when completed create a pull request.
+ - If enhancing the aready existed repository one must briefly explain its actions in pull request.
+ - If your project is already present here just open that project and add the link of your project in the ReadME of that Project.
+ 
+License
+----
+
+MIT
+
+
+**Free Softwares, Hell Yeah!**
