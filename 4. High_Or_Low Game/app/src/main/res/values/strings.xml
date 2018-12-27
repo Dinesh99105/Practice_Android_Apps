@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="tv1">I\'m thinking of a number between 1 and 30."</string>
+    <string name="tv2">Can you guess it?</string>
+    <string name="Edit1">Enter here</string>
+    <string name="btn">Submit</string>
+
+</resources>
